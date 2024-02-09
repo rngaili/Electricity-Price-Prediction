@@ -1,4 +1,4 @@
-# Electricity-Price-Prediction
+# Electricity Price Prediction
 
 The goal of this project is to model the daily price variation of electricity futures contracts in France and Germany from exploratory riables such as weather, energy and commercial data. We will be comparing a range of ensemble models to achieve this goal.
 

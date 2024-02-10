@@ -32,8 +32,7 @@ Empty data:
         DE_FR_EXCHANGE = FR_DE_EXCHANGE 25
         DE_NET_EXPORT = DE_NET_IMPORT 124
         FR_NET_EXPORT = FR_NET_IMPORT 70
-    To put every value equals to 0.
-- For DE, there is no missing data
+- To put every value equals to 0.
 
 
 

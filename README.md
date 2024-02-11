@@ -19,6 +19,5 @@ The data can be found here: [ENS Data Challenge website](https://challengedata.e
 
 This project is part of the Ensemble Learning course at CentraleSupélec from January to March 2024. Completed by Xiao Qing Wang, Rhianne Gonsalves, Gabriele Genovese and Alix Vermeulen.
 
-Interesting side of the data:
 
 

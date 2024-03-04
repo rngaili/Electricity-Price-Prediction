@@ -4,7 +4,6 @@ The goal of this project is to model the daily price variation of electricity fu
 
 The input datasets have 35 columns, including:
 - ID: Unique row identifier, associated with a day and a country.
-<<<<<<< Updated upstream
 - DAY ID: Day identifier.
 - COUNTRY: Country identifier - DE = Germany, FR = France.
 - Weather measures: Temperature, Rainfall, Wind, etc.
@@ -17,7 +16,9 @@ The output dataset is composed of two columns:
 
 The data can be found here: [ENS Data Challenge website](https://challengedata.ens.fr/challenges/97).
 
-This project is part of the Ensemble Learning course at CentraleSupélec from January to March 2024. Completed by Xiao Qing Wang, Rhianne Gonsalves, Gabriele Genovese and Alix Vermeulen.
+This project is part of the Ensemble Learning course at CentraleSupélec from January to March 2024. 
+
+Completed by Xiaoqing Wang, Rhianne Gonsalves, Gabriele Genovese and Alix Vermeulen.
 
 
 
